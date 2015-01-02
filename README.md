@@ -1,7 +1,7 @@
 SparkFun Inventor's Kit Guidebook
 ==================================
 
-## **Please note: This ias been deprecated. The most up-to-date guide is available [here](https://learn.sparkfun.com/tutorials/sik-experiment-guide-for-arduino---v32), and can be translated in-browser.
+## **Please note: This has been deprecated. The most up-to-date guide is available [here](https://learn.sparkfun.com/tutorials/sik-experiment-guide-for-arduino---v32), and can be translated in-browser.
 If you have any questions or feedback regarding this, please post it to the tutorial linked above.**
 
 
