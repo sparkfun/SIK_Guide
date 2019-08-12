@@ -1,21 +1,32 @@
-SparkFun Inventor's Kit Guidebook
+SparkFun Inventor's Kit Guidebook Archives
 ==================================
 
-## **Please note: This has been deprecated. The most up-to-date guide is available [here](https://learn.sparkfun.com/tutorials/sik-experiment-guide-for-arduino---v32), and can be translated in-browser.
-If you have any questions or feedback regarding this, please post it to the tutorial linked above.**
-
-
-
-[![SIK Guide](https://dlnmh9ip6v2uc.cloudfront.net/images/products/1/1/9/7/6/11976-01_medium.jpg)  
-*SparkFun Inventor's Kit Guide (BOK-11976)*](https://www.sparkfun.com/products/11976)
+<table class="table table-hover table-striped table-bordered">
+  <tr align="center">
+   <td><a href="https://www.sparkfun.com/products/11976"><img src="https://dlnmh9ip6v2uc.cloudfront.net/images/products/1/1/9/7/6/11976-01_medium.jpg" alt=""></a></td>
+   <td><a href="https://www.sparkfun.com/products/15478"><img src="https://cdn.sparkfun.com//assets/parts/1/4/0/6/8/15478-SparkFun_Inventor_s_Kit_Guidebook_-_v4.1-02.jpg" alt=""></a></td>
+  </tr>
+  <tr align="center">
+    <td><i>v3.1 (<a href="https://www.sparkfun.com/products/11976">BOK-11976</a>)</i></td>
+    <td><i>v4.1 (<a href="https://www.sparkfun.com/products/15478">BOK-15478</a>)</i></td>
+  </tr>
+</table>
 
 Files and translations of the SparkFun Inventor's Kit Guide from Sparkfun.com.
-You can find the code for downloading into the Arduino IDE [here](https://github.com/sparkfun/SIK-Guide-Code). 
-
+You can find the code for downloading into the Arduino IDE [here](https://github.com/sparkfun/SIK-Guide-Code/releases). 
 
 Repository Contents
 -------------------
 * **/English** - Original version of the guide in English
+
+Documentation
+--------------
+* Online Hookup Guide
+  * **[v4.1](https://learn.sparkfun.com/tutorials/sparkfun-inventors-kit-experiment-guide---v41)**
+  * **[v4.0 + v4.0a](https://learn.sparkfun.com/tutorials/sparkfun-inventors-kit-experiment-guide---v40/install-the-arduino-ide-and-sik-code)**
+  * **[v3.3](https://learn.sparkfun.com/tutorials/sik-experiment-guide-for-arduino---v33)**
+  * **[v3.2](https://learn.sparkfun.com/tutorials/sik-experiment-guide-for-arduino---v32)**
+* [SIK Guide Code](https://github.com/sparkfun/SIK-Guide-Code/releases)
 
 License Information
 -------------------
