@@ -3,7 +3,7 @@ SparkFun Inventor's Kit Guidebook Archives
 
 <table class="table table-hover table-striped table-bordered">
   <tr align="center">
-   <td><a href="https://www.sparkfun.com/products/11976"><img src="https://dlnmh9ip6v2uc.cloudfront.net/images/products/1/1/9/7/6/11976-01_medium.jpg" alt=""></a></td>
+   <td><a href="https://www.sparkfun.com/products/11976"><img src="https://cdn.sparkfun.com//assets/parts/7/5/6/6/11976-02.jpg" alt=""></a></td>
    <td><a href="https://www.sparkfun.com/products/15478"><img src="https://cdn.sparkfun.com//assets/parts/1/4/0/6/8/15478-SparkFun_Inventor_s_Kit_Guidebook_-_v4.1-02.jpg" alt=""></a></td>
   </tr>
   <tr align="center">
