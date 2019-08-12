@@ -8,7 +8,7 @@ SparkFun Inventor's Kit Guidebook Archives
    <td><a href="https://www.sparkfun.com/products/15478"><img src="https://cdn.sparkfun.com//assets/parts/1/4/0/6/8/15478-SparkFun_Inventor_s_Kit_Guidebook_-_v4.1-02.jpg" alt="v4.1"></a></td>
   </tr>
   <tr align="center">
-    <td><i>v1 and v2(<a href="https://www.sparkfun.com/products/09829">BOK-09829</a>)</i></td>
+    <td><i>v1 and v2 (<a href="https://www.sparkfun.com/products/09829">BOK-09829</a>)</i></td>
     <td><i>v3 (<a href="https://www.sparkfun.com/products/11976">BOK-11976</a>)</i></td>
     <td><i>v4 (<a href="https://www.sparkfun.com/products/15478">BOK-15478</a>)</i></td>
   </tr>
