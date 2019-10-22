@@ -27,6 +27,7 @@ Documentation
   * **[v4.0 + v4.0a](https://learn.sparkfun.com/tutorials/sparkfun-inventors-kit-experiment-guide---v40/install-the-arduino-ide-and-sik-code)**
   * **[v3.3](https://learn.sparkfun.com/tutorials/sik-experiment-guide-for-arduino---v33)**
   * **[v3.2](https://learn.sparkfun.com/tutorials/sik-experiment-guide-for-arduino---v32)**
+* [v4.1 Online Flipbook](https://www.sparkfun.com/SIKguidebook)
 * [SIK Guide Code](https://github.com/sparkfun/SIK-Guide-Code/releases)
 
 License Information
